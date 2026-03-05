@@ -64,7 +64,7 @@ subplot(5,1,5);
 plot(fw2);
 `````
 OUTPUT WAVEFORM:
-  
+  ![Output Waveform](ana_output.png)
 
 RESULT:
 
